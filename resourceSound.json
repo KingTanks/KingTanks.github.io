@@ -38,10 +38,6 @@
 	    "src": "sounds/hello2020.mp3"
 	  },
 	  {
-	    "name": "halloween_ambient_sound",
-	    "src": "halloween.mp3"
-	  },
-	  {
 	    "name": "alpha", 
 	    "src": "sounds/alpha.mp3"
 	  },
@@ -76,10 +72,6 @@
 	  {
 		"name": "default_ambient_sound",
         "src": "fon.mp3"	
-	  },
-	  {
-		"name": "halloween_sound_id",
-        "src": "halloween.mp3"	
 	  },
 	  {
 		"name": "bonusTakenSound",
